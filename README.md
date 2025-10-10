@@ -61,7 +61,6 @@
     ├── requirements.txt        # Required Python dependencies
     ├── templates/
     │   └── index.html          # Frontend web interface
-    ├── project_specification.pdf
     └── README.md
 
 
@@ -190,7 +189,6 @@ And in dark theme it can show as:
     ├── requirements.txt
     ├── templates/
     │   └── index.html
-    ├── project_specification.pdf
     └── README.md
 
 (Auto-generated at runtime:)
