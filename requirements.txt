@@ -1,0 +1,76 @@
+# === Core LLM + Agent Framework ===
+langchain==0.2.2
+langchain-community==0.2.3
+langchain-core
+langchain-openai==0.1.8 # For embeddings
+openai==1.31.1          # For embeddings
+tiktoken==0.7.0         # For embeddings 
+
+# sentence-transformers
+onnxruntime==1.17.1 
+chromadb==0.5.0         # Vector storage
+hf_transfer
+
+# === PDF Parsing ===
+PyMuPDF==1.25.5
+pdfplumber
+
+# === Web Frameworks ===
+fastapi
+uvicorn[standard]
+# === Database Drivers ===
+sqlalchemy
+psycopg2-binary     # PostgreSQL
+pymysql             # MySQL
+# === API Access & Web Scraping ===
+requests
+beautifulsoup4
+# === File Handling & Utilities ===
+python-dotenv
+tqdm
+aiofiles
+# === Optional (Agent Tool Use & Logging) ===
+pydantic
+httpx
+toolz
+tenacity
+
+arxiv==1.4.1
+transformers==4.36.2
+sentence-transformers==2.2.2
+jinja2==3.1.2
+aiohttp==3.9.1 # Required dependency of FastAPI
+python-multipart==0.0.6 # for handling file uploads with FastAPI
+aiofiles==24.1.0
+# --------------------------------
+langgraph
+uvicorn
+
+# accelerate
+
+huggingface_hub==0.19.4
+
+sentence_transformers
+
+# ollama pull llama2
+# ollama pull mistral
+# ollama pull codeup
+
+InstructorEmbedding 
+
+llama-cpp-python
+
+fpdf2
+
+bs4 # for uploading from external link # pip install beautifulsoup4
+
+faiss-cpu
+mistral_inference
+reportlab
+
+ollama pull mistral:7b-instruct
+
+
+
+
+
