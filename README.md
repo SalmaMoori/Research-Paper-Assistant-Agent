@@ -53,6 +53,7 @@
   | **Hardware**          | NVIDIA RTX 3090 GPU                |
 
 🧱 Project Structure
+---------------------
 
     paper_assistant_agent/
     │
